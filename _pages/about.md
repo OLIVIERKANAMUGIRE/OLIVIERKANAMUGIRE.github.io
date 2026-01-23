@@ -39,7 +39,7 @@ latest_posts:
 I am a mathematician with research interests in the following:
 
 - applied mathematics & optimization
-- machine learning 
+- machine learning
 - biomedical deep learning
 
 I am currently affiliated with the African Institute for Mathematical Sciences (AIMS-Rwanda). Through my teaching assistantship and academic training, I have developed a strong background:
