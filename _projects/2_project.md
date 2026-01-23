@@ -16,7 +16,7 @@ github: https://github.com/OLIVIERKANAMUGIRE/Diabetic-Retinopathy-and-Predicting
 Check it out on GitHub:  
 👉 [Diabetic Retinopathy and Predicting its Progression]({{ page.github }})
 
-This project focuses on modelling the **progression of diabetic retinopathy (DR)** over time using retinal fundus photographs and deep learning techniques. Unlike traditional work that focuses exclusively on classification or lesion segmentation, this research explores how the disease evolves longitudinally. :contentReference[oaicite:0]{index=0}
+This project focuses on modelling the **progression of diabetic retinopathy (DR)** over time using retinal fundus photographs and deep learning techniques. Unlike traditional work that focuses exclusively on classification or lesion segmentation, this research explores how the disease evolves longitudinally. 
 
 ---
 
@@ -40,7 +40,7 @@ This project focuses on modelling the **progression of diabetic retinopathy (DR)
 
 ### Motivation
 
-Diabetic retinopathy is a leading cause of vision loss worldwide. While existing work often focuses on detecting or grading severity from a **single timepoint**, real-world clinical needs require tools that can **predict future disease progression** to inform treatment planning and early intervention. :contentReference[oaicite:1]{index=1}
+Diabetic retinopathy is a leading cause of vision loss worldwide. While existing work often focuses on detecting or grading severity from a **single timepoint**, real-world clinical needs require tools that can **predict future disease progression** to inform treatment planning and early intervention. 
 
 ---
 
@@ -50,11 +50,11 @@ This project proposes a framework that consists of two main components:
 
 1. **Autoencoders for Representation Learning**
    - Build a compact latent representation of high-resolution fundus images.
-   - Train convolutional autoencoders to reconstruct retinal images while encoding clinically meaningful features. :contentReference[oaicite:2]{index=2}
+   - Train convolutional autoencoders to reconstruct retinal images while encoding clinically meaningful features. 
 
 2. **Neural Ordinary Differential Equations (NODEs) for Temporal Prediction**
    - Model the evolution of the disease in latent space over time using NODEs.
-   - Multiple ODE solvers were evaluated; the Dormand-Prince5 solver achieved the best predictive quality based on structural similarity metrics. :contentReference[oaicite:3]{index=3}
+   - Multiple ODE solvers were evaluated; the Dormand-Prince5 solver achieved the best predictive quality based on structural similarity metrics. 
 
 ---
 
@@ -62,8 +62,7 @@ This project proposes a framework that consists of two main components:
 
 - Learned a **latent space** that captures salient image features relevant for progression.
 - Predicted future DR states from historical images using a continuous time model.
-- Demonstrated potential for forecasting future retinal appearance and DR grade changes. :contentReference[oaicite:4]{index=4}
-
+- Demonstrated potential for forecasting future retinal appearance and DR grade changes. 
 ---
 
 ### Code Highlights
@@ -74,8 +73,7 @@ The repository contains:
 - `main_ode_model.py` — trains the NODE-based progression predictor.
 - `main_cv.py` — additional computer-vision utilities.
 - `README.md` — project documentation and setup instructions.
-- Diagrams and supporting figures illustrating model architecture and training pipeline. :contentReference[oaicite:5]{index=5}
-
+- Diagrams and supporting figures illustrating model architecture and training pipeline.
 ---
 
 ### Why This Matters
