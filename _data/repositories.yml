@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - https://github.com/OLIVIERKANAMUGIRE/Optimization_algorithms
-  - https://github.com/OLIVIERKANAMUGIRE/Graphs-and-Graph-Neural-Nets
-  - https://github.com/OLIVIERKANAMUGIRE/Support-Vector-Machines-from-Scratch
-  - https://github.com/OLIVIERKANAMUGIRE/Kalman-Filtering
+  - OLIVIERKANAMUGIRE/Optimization_algorithms
+  - OLIVIERKANAMUGIRE/Graphs-and-Graph-Neural-Nets
+  - OLIVIERKANAMUGIRE/Support-Vector-Machines-from-Scratch
+  - OLIVIERKANAMUGIRE/Kalman-Filtering

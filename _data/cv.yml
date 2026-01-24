@@ -78,18 +78,23 @@
         posteriors using longitudinal clinical and contextual data.
 
       keywords: computer vision, Bayesian ML, multimodal learning, healthcare AI
-      Attention: If this sounds interesting and you’re down to collaborate and publish, DM me!
+      Attention: If this sounds interesting and you are down to collaborate and publish, DM me!
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Certificate of achievement - Ios app development
+        - Data Analysis and Machine Learning Models in MATLAB certificates—MathWorks
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Academic discipline and values trophy—AIMS, Rwanda June 28, 2024
+    - year: 2022.2023
+      items:
+        - Certificate of Merit—UR, Rwanda [Principal roll of Honor for academic achievement]
+        - Honorable Mention Diploma [Open Mathematical Olympiad for University Students]
+        - Silver Honors and National award [International Youth Math Challenge]
 
 - title: Academic Interests
   type: nested_list
@@ -103,8 +108,3 @@
       items:
         - modeling
         - bayesian and uncertainty quantification
-
-- title: Other Interests
-  type: list
-  contents:
-    - "<u>Hobbies:</u> Piano, Volleyball, etc."
