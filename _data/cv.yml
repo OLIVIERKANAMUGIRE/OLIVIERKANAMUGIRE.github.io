@@ -21,11 +21,7 @@
             - Diabetic retinopathy and predicting its progression
         - title: Main courses
           contents:
-            - Advanced data analysis and machine learning
-            - Pattern recognition and machine learning
-            - Digital imaging and image processing
-            - Machine vision and digital image analysis
-            - 3D computer vision
+            - advanced data analysis and machine learning, pattern recognition and machine learning, digital imaging and image processing, machine vision and digital image analysis, 3D computer vision, ...
 
     - title: MSc.
       institution: African Institute for Mathematical Sciences, Kigali, Rwanda
@@ -37,12 +33,7 @@
             - Advanced deep learning for malaria detection using a microscope
         - title: Main courses
           contents:
-            - Statistical regression
-            - Statistical machine learning
-            - PDEs
-            - Big data analytics with Python
-            - Interpretable machine learning
-            - Numerical linear algebra
+            - statistical regression, statistical machine learning, PDEs, big data analytics with python, data-driven optimization, interpretable machine learning, financial machine learning, database and data management, numerical linear algebra, algorithms and data structures, numerical analysis,...
 
     - title: BSc.
       institution: University of Rwanda – College of Science and Technology, Kigali, Rwanda
@@ -54,13 +45,7 @@
             - Theory of generalized functions to analyse the Cauchy problem for the wave equation
         - title: Main courses
           contents:
-            - Algebra
-            - Calculus
-            - Differential equations
-            - Topology
-            - Measure theory
-            - Stochastic processes
-
+            - algebra, calculus, differential equations, geometry, topology, measure theory, dynamical systems, mathematical biology, physics, analystical mechanics, special functions, operations research, statistics(multivariate, inferential, etc), stochastic processes, optimal control, mathematical modeling, ...
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
