@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-nonlinear-support-vector-machine-svm-with-polynomial-kernel",
+        
+          title: "Nonlinear Support Vector Machine (SVM) with Polynomial Kernel",
+        
+        description: "Nonlinear support vector machine from scratch",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/svm/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -60,6 +71,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-optimization-fundamentals-from-minimization-to-algorithms",
+        
+          title: "Optimization Fundamentals — From Minimization to Algorithms",
+        
+        description: "Gradient descent (GD), Stochastic GD, Adam optimizer",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/optimizationAlgorithm/";
+          
+        },
+      },{id: "post-k-nearest-neighbor-knn-how-your-closest-connections-define-you",
+        
+          title: "K-Nearest Neighbor (KNN) -- How your closest connections define you!",
+        
+        description: "KNN algorithm from scratch",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/knn/";
           
         },
       },{id: "post-a-post-with-image-galleries",
