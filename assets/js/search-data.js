@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-writings",
+          title: "Writings",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -381,17 +381,6 @@ ninja.data = [{
             window.location.href = "/blog/2015/math/";
           
         },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
       },{id: "post-a-post-with-images",
         
           title: "a post with images",
@@ -414,21 +403,24 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
+      },{id: "post-k-nearest-neighbor-knn-how-your-closest-connections-define-you",
+        
+          title: "K-Nearest Neighbor (KNN) -- How your closest connections define you!",
+        
+        description: "KNN algorithm from scratch",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/code/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-what-is-this",
-          title: 'A simple inline announcement. what is this?????????????',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-am-joing-aims-rwanda-as-a-teaching-assistant",
+          title: 'I am joing AIMS-Rwanda as a teaching assistant.',
           description: "",
           section: "News",},{id: "projects-robotic-3d-vision",
           title: 'Robotic 3D Vision',
@@ -462,18 +454,18 @@ ninja.data = [{
           window.open("https://github.com/OLIVIERKANAMUGIRE", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-gitlab',
+        title: 'GitLab',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://gitlab.com/olivier-kanamugire-69b585233", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/olivier-kanamugire-69b585233", "_blank");
         },
       },{
         id: 'social-scholar',
