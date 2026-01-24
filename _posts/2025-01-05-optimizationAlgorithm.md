@@ -5,6 +5,7 @@ date: 2025-01-05
 description: Gradient descent (GD), Stochastic GD, Adam optimizer
 tags: formatting videos
 categories: sample-posts
+thumbnail: assets/img/optim.png
 ---
 
 ## Introduction
