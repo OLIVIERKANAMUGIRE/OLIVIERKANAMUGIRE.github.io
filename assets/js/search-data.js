@@ -249,17 +249,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/audios/";
           
         },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
-          
-        },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
         
           title: "displaying beautiful tables with Bootstrap Tables",
@@ -379,28 +368,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/formatting-and-links/";
-          
-        },
-      },{id: "post-nonlinear-support-vector-machine-svm-with-polynomial-kernel",
-        
-          title: "Nonlinear Support Vector Machine (SVM) with Polynomial Kernel",
-        
-        description: "Nonlinear support vector machine from scratch",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2014/images/";
-          
-        },
-      },{id: "post-k-nearest-neighbor-knn-how-your-closest-connections-define-you",
-        
-          title: "K-Nearest Neighbor (KNN) -- How your closest connections define you!",
-        
-        description: "KNN algorithm from scratch",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2014/code/";
           
         },
       },{id: "books-the-godfather",
