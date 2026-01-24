@@ -4,7 +4,16 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - OLIVIERKANAMUGIRE/Diabetic-Retinopathy-and-Predicting-its-Progression
+  - OLIVIERKANAMUGIRE/Graphs-and-Graph-Neural-Nets
+  - OLIVIERKANAMUGIRE/Towards-Bayesian-Statistics-Monte-Carlo-Sampling
+  - OLIVIERKANAMUGIRE/Updating-beliefs-on-a-disease---A-bayesian-approach
+  - OLIVIERKANAMUGIRE/3D-Handwritten-Recognition-Using-Random-Forest
+  - OLIVIERKANAMUGIRE/Coin-Detection-Using-Computer-Vision
+  - OLIVIERKANAMUGIRE/Principle-Component-Analysis
   - OLIVIERKANAMUGIRE/Optimization_algorithms
   - OLIVIERKANAMUGIRE/Graphs-and-Graph-Neural-Nets
   - OLIVIERKANAMUGIRE/Support-Vector-Machines-from-Scratch
   - OLIVIERKANAMUGIRE/Kalman-Filtering
+  - OLIVIERKANAMUGIRE/Forecasting-The-Stock-Prices-For-AAPL-Stocks
+  - Durbarhp/ADML-GROUP-WORK
