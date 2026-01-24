@@ -46,48 +46,39 @@
         - title: Main courses
           contents:
             - algebra, calculus, differential equations, geometry, topology, measure theory, dynamical systems, mathematical biology, physics, analystical mechanics, special functions, operations research, statistics(multivariate, inferential, etc), stochastic processes, optimal control, mathematical modeling, ...
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching assistant
+      institution: African Institute for Mathematical Sciences, Kigali, Rwanda
+      year: Sept. 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Mathematics and Programming
+        - title: I provide assistantship in the following courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - statistical regression, statistical machine learning, bayesian statistics, mathematical problem solving, physical problem solving, ...
+    - title: Financial analyst intern
+      institution: Rwanda Stock Exchange, Kigali, Rwanda
+      year: March. 2022 - April. 2022
       description:
-        - Description 1.
-        - Description 2.
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany
-      year: 1917-1933
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Financial reporting - daily market reports
+        - predictingroject- Analysis of broker performance during six years.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Longitudinal Multimodal Learning with Imaging-Based Priors for Personalized Disease Progression Modeling
+      year: Current
+      description: Precision medicine requires models that move beyond population-level predictions toward individualized disease
+        understanding and treatment planning. While medical imaging captures rich structural and functional disease information at the
+        population scale, it is rarely leveraged as an explicit prior for personalized longitudinal modeling. At the same time, patient-specific
+        modalities such as clinical measurements, demographics, and lifestyle factors provide crucial contextual signals but are often sparse and noisy.
+        The aim is to model personalized disease progression by treating population-level imaging features as priors and updating them into individual
+        posteriors using longitudinal clinical and contextual data.
+
+      keywords: computer vision, Bayesian ML, multimodal learning, healthcare AI
+      Attention: If this sounds interesting and you’re down to collaborate and publish, DM me!
 
 - title: Honors and Awards
   type: time_table
@@ -103,16 +94,17 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: machine learning and computer vision
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - applied machine learning - health
+        - mathematics for machine learning
+        - extend computer vision for signal and image processing
+    - title: mathematics
       items:
-        - Description 1.
-        - Description 2.
+        - modeling
+        - bayesian and uncertainty quantification
 
 - title: Other Interests
   type: list
   contents:
-    - "<u>Hobbies:</u> Hobby 1, Hobby 2, etc."
+    - "<u>Hobbies:</u> Piano, Volleyball, etc."
