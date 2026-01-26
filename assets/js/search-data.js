@@ -73,6 +73,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-logistic-regression-for-ultrasonic-flow-meter-health-classification",
+        
+          title: "Logistic Regression for Ultrasonic Flow Meter Health Classification",
+        
+        description: "Binary classification of ultrasonic flow meter health using logistic regression and numerical optimization",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/logistic_regression/";
+          
+        },
       },{id: "post-on-the-optimization-algorithms-and-learning-rate",
         
           title: "On the optimization algorithms and learning rate",
@@ -82,6 +93,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/optimizationAlgorithm/";
+          
+        },
+      },{id: "post-graphs-and-graph-neural-nets",
+        
+          title: "Graphs and Graph Neural Nets",
+        
+        description: "Graphs, Adjacency Matrix, Graph Neural Nets",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/graphNN/";
           
         },
       },{id: "post-k-nearest-neighbor-knn-how-your-closest-connections-define-you",
@@ -104,17 +126,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-graphs-and-graph-neural-nets",
-        
-          title: "Graphs and Graph Neural Nets",
-        
-        description: "Graphs, Adjacency Matrix, Graph Neural Nets",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/graphNN/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
