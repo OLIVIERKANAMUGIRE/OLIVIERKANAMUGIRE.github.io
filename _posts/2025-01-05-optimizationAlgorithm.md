@@ -20,13 +20,10 @@ This article introduces the fundamental ideas behind optimization in machine lea
 
 In supervised learning, we are given a dataset $\mathcal{D} = \{(x_i, y_i)\}_{i=1}^N$and a model parameterized by $\theta$. Learning consists of minimizing a loss function:
 
-$\theta^\* = \arg\min_{\theta} \; \mathcal{L}(\theta) = \frac{1}{N}\sum_{i=1}^{N} \ell(f(x_i; \theta), y_i)$
+$$\theta^\* = \arg\min_{\theta} \mathcal{L}(\theta), 
+\quad \text{where} \quad \mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell\big(f(x_i; \theta), y_i\big).$$
 
-The loss surface can be:
-
-- convex or non-convex
-- smooth or highly irregular
-- low- or high-dimensional
+The loss surface can be convex or non-convex, smooth or highly irregular, low- or high-dimensional.
 
 Optimization algorithms define _how_ we move on this surface to reach a good solution.
 
@@ -36,7 +33,7 @@ Optimization algorithms define _how_ we move on this surface to reach a good sol
 
 Gradient Descent is the most fundamental first-order optimization method. It iteratively updates parameters in the direction of the negative gradient of the loss function:
 
-$\theta_{t+1} = \theta_t - \eta \nabla*{\theta}\mathcal{L}(\theta_t)$
+$$\theta_{t+1} = \theta_t - \eta \nabla*{\theta}\mathcal{L}(\theta_t)$$
 
 where $\nabla_{\theta}\mathcal{L}$ is the gradient and $\eta > 0\$ is the learning rate.
 
