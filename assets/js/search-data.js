@@ -73,6 +73,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-singular-value-decomposition-for-hyperspectral-image-dimensionality-reduction",
+        
+          title: "Singular Value Decomposition for Hyperspectral Image Dimensionality Reduction",
+        
+        description: "Dimensionality reduction of the Indian Pines hyperspectral dataset using Singular Value Decomposition (SVD)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/svdappli/";
+          
+        },
       },{id: "post-logistic-regression-for-ultrasonic-flow-meter-health-classification",
         
           title: "Logistic Regression for Ultrasonic Flow Meter Health Classification",
