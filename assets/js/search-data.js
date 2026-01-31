@@ -51,11 +51,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-svm",
+        },{id: "post-nonlinear-support-vector-machine-svm-with-polynomial-kernel",
         
-          title: "Svm",
+          title: "Nonlinear Support Vector Machine (SVM) with Polynomial Kernel",
         
-        description: "",
+        description: "Nonlinear support vector machine from scratch",
         section: "Posts",
         handler: () => {
           
