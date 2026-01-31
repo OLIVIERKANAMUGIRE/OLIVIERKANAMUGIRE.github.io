@@ -66,6 +66,17 @@ ninja.data = [{
         
           title: "Singular Value Decomposition for Hyperspectral Image Dimensionality Reduction",
         
+        description: "Understanding SVD theory and applying it to hyperspectral imaging - A comprehensive guide",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/svd_blog_extended/";
+          
+        },
+      },{id: "post-singular-value-decomposition-for-hyperspectral-image-dimensionality-reduction",
+        
+          title: "Singular Value Decomposition for Hyperspectral Image Dimensionality Reduction",
+        
         description: "Dimensionality reduction of the Indian Pines hyperspectral dataset using Singular Value Decomposition (SVD)",
         section: "Posts",
         handler: () => {
